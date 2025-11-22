@@ -1,9 +1,6 @@
 # 3D Object Detection for Autonomous Driving: A Comprehensive Survey (2025)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2206.09474-b31b1b.svg)](https://arxiv.org/abs/2206.09474)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving)](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving/issues/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ![overview](Figs/自动驾驶系统_图.png)
 
