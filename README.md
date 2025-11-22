@@ -8,13 +8,8 @@ This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 
 > **Title:** 3D Object Detection for Autonomous Driving: A Comprehensive Survey <br>
 > **Authors:** Changhong Bu, Weiqing Yan<br>
-> **Publication:** None <br>
-
-a.k.a
-
-> **Title:** 3D Object Detection for Autonomous Driving: A Review and New Outlooks <br>
-> **Authors:** Changhong Bu, Weiqing Yan, <br>
 > arXiv preprint arXiv:2206.09474<br>
+> **Publication:** None <br>
 
 We also provide a paper collection on 3D object detection for autonomous driving at [Awesome 3D Object Detection for Autonomous Driving](Papers.md).
 
@@ -48,20 +43,26 @@ We also provide a paper collection on 3D object detection for autonomous driving
         - [3.1.3 Late-fusion based 3D object detection](#3.3)
     - [3.2 Multi-modal detection with radar signals](#3.3)
     - [3.3 Multi-modal detection with high-definition maps](#3.3)
-- [4. Temporal 3D Object Detection](#4)
+- [4. What is Knowledge Distillation (Feature distillation,Relation distillation,Respond distillation) ](#4)
     - [4.1 3D object detection from LiDAR sequences](#4.1)
     - [4.2 3D object detection from streaming data](#4.2)
     - [4.3 3D object detection from videos](#4.2)
-- [5. Label-Efficient 3D Object Detection](#5)
+- [5.  LIDAR to LIDAR Knowledge Distillation for 3D Detection](#5)
     - [5.1 Domain adaptation for 3D object detection](#5.1)
     - [5.2 Weakly-supervised 3D object detection](#5.2)
     - [5.3 Semi-supervised 3D object detection](#5.3)
     - [5.4 Self-supervised 3D object detection](#5.4)
-- [6. 3D Object Detection in Driving Systems](#6)
+- [6. LIDAR to Camera Knowledge Distillation for 3D Detection](#6)
     - [6.1 End-to-end learning for autonomous driving](#6.1)
     - [6.2 Simulation for 3D object detection](#6.1)
     - [6.3 Robustness for 3D object detection](#6.1)
     - [6.4 Collaborative 3D object detection](#6.2)
+- [7. LIDAR to Camera Knowledge Distillation for 3D Detection](#6)
+    - [6.1 End-to-end learning for autonomous driving](#6.1)
+    - [6.2 Simulation for 3D object detection](#6.1)
+    - [6.3 Robustness for 3D object detection](#6.1)
+    - [6.4 Collaborative 3D object detection](#6.2)
+  
 
 <a name="1"></a>
 
