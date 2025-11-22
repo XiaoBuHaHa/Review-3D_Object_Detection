@@ -13,7 +13,7 @@ This repository is with our [survey paper](https://arxiv.org/abs/2206.09474):
 a.k.a
 
 > **Title:** 3D Object Detection for Autonomous Driving: A Review and New Outlooks <br>
-> **Authors:** Jiageng Mao, Shaoshuai Shi, Xiaogang Wang, Hongsheng Li<br>
+> **Authors:** Changhong Bu, Weiqing Yan, <br>
 > arXiv preprint arXiv:2206.09474<br>
 
 We also provide a paper collection on 3D object detection for autonomous driving at [Awesome 3D Object Detection for Autonomous Driving](Papers.md).
